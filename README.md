@@ -66,3 +66,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### auth-0
+This is an authorization and authentication management platform used to manage the login and loguot of the user
+
+### React-bootstrap
+Used to improve the styling of the app

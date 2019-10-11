@@ -72,4 +72,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 This is an authorization and authentication management platform used to manage the login and loguot of the user
 
 ### React-bootstrap
-Used to improve the styling of the app
+Used to improve the styling of the app.
